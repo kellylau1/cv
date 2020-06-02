@@ -1,0 +1,51 @@
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family: 'Indie Flower','Caveat', cursive;
+    font-size: x-large;
+    
+}
+
+.top-container { 
+    position: relative;
+    text-align: center;
+}
+
+.cloud-png1{
+    width: 150px;
+    position: relative;
+    margin-left: 500px;
+    margin-top: 10px;
+}
+
+.cloud-png2{
+    width: 150px;
+    position: relative;
+    margin-right: 500px;
+    margin-top: 45px;
+}
+
+.mountain-png{
+    margin-top: 100px;
+    margin-bottom: 0px;
+    width: 500px;
+}
+
+span{ 
+    text-decoration: underline;
+}
+
+.last{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.google-img{
+    padding: auto;
+}
+
+h1{
+    font-size: 100px;
+}
+.programmer{
+    font-size: 35px;
+}
